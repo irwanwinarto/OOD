@@ -1,0 +1,7 @@
+This assignment exercises your understanding of operator overloading in C++. 
+
+You must overload all appropriate operators.
+
+As with other design details, type definition is concerned with consistency.
+
+Focus on the expectations of the client programmer.
