@@ -1,0 +1,8 @@
+P6’s objective is to redo P4 in C#.
+
+P4 used multiple inheritance in C++ to support type definitions that encapsulated gen and blurtRep types.
+
+C# does not support multiple inheritance
+
+=> design P6 using simulated multiple inheritance.
+
