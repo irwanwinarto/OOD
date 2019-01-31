@@ -1,0 +1,2 @@
+This assignment aims to excercise understanding of multiple inheritance in C++.
+P4’s goal is to design the C++ classes needed to support the notion of child classes inheriting from gen subtypes (from P3) and a blurtRep type (from P2).  
